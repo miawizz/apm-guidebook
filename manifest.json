@@ -1,0 +1,15 @@
+{
+  "name": "APM Guidebook",
+  "short_name": "APM Guidebook",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#4b00c4",
+  "theme_color": "#4b00c4",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
